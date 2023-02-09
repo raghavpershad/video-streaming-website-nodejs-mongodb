@@ -7,11 +7,11 @@
 - Download and Install Node JS and Mongo DB
 - Start Mongo DB server by running the following command in "bin" folder where Mongo DB is installed:
 	```
-    > ./mongod
+    ./mongod
     ```
     or
     ```
-    > mongod
+    mongod
     ```
 - Then open command prompt in this folder and run the following command:
     ```
