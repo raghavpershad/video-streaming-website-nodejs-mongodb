@@ -1,6 +1,6 @@
 # Video streaming website in NodeJS and MongoDB
 
-![Video streaming website in NodeJS and MongoDB](https://github.com/adnanafzal565/video-streaming-website-nodejs-mongodb/screenshot.jpg?raw=true)
+![Video streaming website in NodeJS and MongoDB](https://raw.githubusercontent.com/adnanafzal565/video-streaming-website-nodejs-mongodb/main/screenshot.jpg)
 
 ## Installation
 
